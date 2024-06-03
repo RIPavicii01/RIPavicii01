@@ -1,11 +1,11 @@
 # Hi there, I'm Jang_Hyung_Jun! 👋
 
-## 🎮 Game Programmer | 22-year-old Male
+## 🎮 Aspiring Game Programmer | 22-year-old Male
 
 ---
 
 ### 🧑‍💻 About Me
-Hello! I'm Jang_Hyung_Jun, a passionate game programmer. I am dedicated to creating innovative and creative games, always aiming to bring new experiences to players.
+Hello! I'm Jang_Hyung_Jun, a 22-year-old male aspiring to be a game programmer. I am dedicated to creating innovative and creative games, always aiming to bring new experiences to players.
 
 ---
 
