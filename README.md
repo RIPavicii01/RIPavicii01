@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Jang_Hyung_Jun! 👋
 
-<!--
-**RIPavicii01/RIPavicii01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎮 Game Programmer | 22-year-old Male
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+Hello! I'm Jang_Hyung_Jun, a passionate game programmer. I am dedicated to creating innovative and creative games, always aiming to bring new experiences to players.
+
+---
+
+### 🛠️ Tech Stack
+- **Languages**: _C++, C#, Python, JavaScript_
+- **Game Engines**: _Unity, Unreal Engine_
+- **Tools**: _Git, Visual Studio, Blender_
+
+---
+
+### 📫 How to Reach Me
+- **Email**: [jjjang030819@naver.com](mailto:jjjang030819@naver.com), [jjang030819@gmail.com](mailto:jjang030819@gmail.com)
+- **Instagram**: [jang_h_j03](https://www.instagram.com/jang_h_j03?igsh=MXc2OGJlaWgzcXNo)
+
+---
+
+### 🌟 Additional Information
+- **Interests**: _Game Development, AI in Games, VR/AR_
