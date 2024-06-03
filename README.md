@@ -19,6 +19,8 @@ Hello! I'm Jang_Hyung_Jun, a 22-year-old male aspiring to be a game programmer. 
 ### 📫 How to Reach Me / 연락 방법
 - **Email / 이메일**: [jjjang030819@naver.com](mailto:jjjang030819@naver.com), [jjang030819@gmail.com](mailto:jjang030819@gmail.com)
 - **Instagram / 인스타그램**: [jang_h_j03](https://www.instagram.com/jang_h_j03?igsh=MXc2OGJlaWgzcXNo)
+- **KakaoTalk ID / 카카오톡 ID**: top012334
+- **Discord ID / 디스코드 ID**: ripavicii
 
 ---
 
